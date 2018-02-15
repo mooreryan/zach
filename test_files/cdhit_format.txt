@@ -1,0 +1,9 @@
+>cluster 0
+seq1_c
+seq2
+seq3
+>cluster 1
+seq4_c
+seq5
+>cluster 2
+seq6_c
